@@ -43,11 +43,13 @@ Ventana 4: 52 a 56 comunas/municipios restantes.
 Durante estos turnos, existe un 50% de probabilidad de que se genere una alianza.
 
 # Notas Importantes:
-Dado que la simulación se basa en la lógica de batallas y alianzas semi aleatorias, los resultados varian en cada ejecución.
+1. Este proyecto fue realizado durante 2021 y tiene una lógica y uso de librerías distinta a la que utilizaría hoy en día. Aún así, me sorprende gratamente el hecho de que corra.
+  
+2. Dado que la simulación se basa en la lógica de batallas y alianzas semi aleatorias, los resultados varian en cada ejecución.
 
 # Mejoras futuras:
 Si existen interesados que quieran implementar este bot en una red social, te invito a contactarme para que podamos desarrollar mejoras y nuevas caracteristicas, por ejemplo, 
-generando automaticamente las graficas utilizando GeoPandas, generación de lore mediante un LLM, entre otras nuevas caracteristicas.
+generando automaticamente las graficas utilizando GeoPandas, generación de lore mediante un LLM, la integración a la API de dicha red, entre otras nuevas caracteristicas.
 
 
 
