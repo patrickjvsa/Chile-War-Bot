@@ -43,7 +43,7 @@ Ventana 4: 52 a 56 comunas/municipios restantes.
 Durante estos turnos, existe un 50% de probabilidad de que se genere una alianza.
 
 # Notas Importantes:
-1. Este proyecto fue realizado durante 2021 y tiene una lógica y uso de librerías distinta a la que utilizaría hoy en día. Aún así, me sorprende gratamente el hecho de que corra.
+1. Este proyecto fue realizado durante 2021 y tiene una lógica, paradigma y uso de librerías distinta a la que utilizaría hoy en día. Aún así, me sorprende gratamente el hecho de que la wea aun corra.
   
 2. Dado que la simulación se basa en la lógica de batallas y alianzas semi aleatorias, los resultados varian en cada ejecución.
 
